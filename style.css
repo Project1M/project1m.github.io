@@ -13088,7 +13088,13 @@ body:not(.no-transition) #wrapper,
 	opacity: 0.0; }
 }
 
-
+.css3-spinner > .css3-spinner-custom {
+	width: 150px;
+	height: 156px;
+	margin-top: -75px;
+	margin-left: -78px;
+	background-image: url('images/logo-preloader.gif');
+}
 
 /* ----------------------------------------------------------------
 	HTML5 Youtube Video Backgrounds
