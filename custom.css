@@ -17,6 +17,9 @@
 	background-color: #299fd6;
 	border: 0;
 }
+#primary-menu ul li a {
+	color: black;
+}
 #about .panel-body, #team .panel-body {
 	font-size: 1.3em !important;
 }
