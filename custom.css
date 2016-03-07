@@ -17,6 +17,17 @@
 	background-color: #299fd6;
 	border: 0;
 }
+.slider .one-page-arrow{
+	bottom: -50px;
+}
+.slider .RotatingWords-CaptionBlack {
+	font-size: 2em;
+	color: black;
+	font-weight: 300;
+}
+.slider .RotatingWords-SmallText {
+	font-size: 1.5em !important;
+}
 #about .panel-body, #team .panel-body {
 	font-size: 1.3em !important;
 }
