@@ -20,6 +20,13 @@
 #primary-menu ul li a {
 	color: black;
 }
+.slider .one-page-arrow{
+	bottom: -50px;
+}
+.slider .RotatingWords-CaptionBlack {
+	color: black;
+	font-weight: 300;
+}
 #about .panel-body, #team .panel-body {
 	font-size: 1.3em !important;
 }
@@ -88,9 +95,8 @@
 }
 /*Mobile CSS*/
 @media (max-width: 767px) {
-#slider .slider-caption p {
+.slider .one-page-arrow {
 	display: block !important;
-	font-size: 16px;
 }
 #about h3 {
 	text-align: center;
