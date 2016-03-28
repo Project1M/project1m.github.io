@@ -13,6 +13,10 @@
 .blacktext {
 	color: black !important;
 }
+.center-v {
+	display: flex;
+  align-items: center;
+}
 #header, #header.sticky-header #header-wrap {
 	background-color: #299fd6;
 	border: 0;
@@ -30,14 +34,11 @@
 #about .panel-body, #team .panel-body {
 	font-size: 1.3em !important;
 }
+#about .panel {
+	margin: 10px 0;
+}
 #about h3 {
 	text-indent: 20px;
-}
-#about img {
-	margin-top: 16px;
-}
-#about .tripleline img {
-	margin-top: 27px;
 }
 #mc_embed_signup .mc-field-group {
 	padding-bottom: 1% !important;
